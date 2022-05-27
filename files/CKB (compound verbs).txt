@@ -1,0 +1,6 @@
+###
+# FIRST COLUMN: Infinitive (چاوگ)
+# SECOND COLUMN: Past Tense (قەدی چاوگ)
+# THIRD COLUMN: Present Tense (ڕەگی کار)
+# FOURTH COLUMN: (0) Intransitive / (1) Transitive
+###
