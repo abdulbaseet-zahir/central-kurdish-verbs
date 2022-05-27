@@ -2,9 +2,9 @@
 This repository contains some Central Kurdish language verbs. The verbs are taken from simple Infinitives and converted to verb stems(past tense) and roots(present tense), determining whether the verb is Transitive or Intransitive.
 
 # Verbs
-Simple Verbs (collected and labelled by hand)
-Complex Verbs (generated)
-Compound Verbs (not generated yet)
+- Simple Verbs (collected and labelled by hand)
+- Complex Verbs (generated)
+- Compound Verbs (not generated yet)
 
 # TODOS
 - Get some reviews.
