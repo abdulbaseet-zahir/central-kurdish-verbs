@@ -19,9 +19,9 @@ This repository contains some Central Kurdish language verbs. The verbs are take
 Create an issue to report something, change files, then make a Pull Request, or change codes and make a Pull Request.
 
 # References
-[Neriman Xoshnaw](http://www.yageyziman.com/Rezmani_Kurdi_Neriman_Xoshnaw.pdf)
-[Edris Hashimi](http://diyako.yageyziman.com/2021/03/27/%da%95%db%8e%d8%b2%d9%85%d8%a7%d9%86/)
-[Diyako Hashemi](http://diyako.yageyziman.com/2018/06/05/%D8%AF%DB%86%D8%B2%DB%8C%D9%86%DB%95%D9%88%DB%95%DB%8C-%DA%95%DB%95%DA%AF%DB%8C-%DA%A9%D8%A7%D8%B1/)
+1. [Neriman Xoshnaw](http://www.yageyziman.com/Rezmani_Kurdi_Neriman_Xoshnaw.pdf)
+2. [Edris Hashimi](http://diyako.yageyziman.com/2021/03/27/%da%95%db%8e%d8%b2%d9%85%d8%a7%d9%86/)
+3. [Diyako Hashemi](http://diyako.yageyziman.com/2018/06/05/%D8%AF%DB%86%D8%B2%DB%8C%D9%86%DB%95%D9%88%DB%95%DB%8C-%DA%95%DB%95%DA%AF%DB%8C-%DA%A9%D8%A7%D8%B1/)
 
 # Licence
 It does not have any copyrights. Therefore, you can use it freely.
